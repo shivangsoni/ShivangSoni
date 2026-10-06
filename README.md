@@ -1,4 +1,4 @@
-# Hi, I'm Shivang 👋
+# Hi, I'm Shivang.
 
 **Software Engineer II @ Microsoft | Responsible AI for Enterprise AI Agents**
 
